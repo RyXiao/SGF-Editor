@@ -9,8 +9,12 @@ Combine the functions of both MultiGo and 101weiqi
 2. 增加类似101模糊搜索棋库的功能。
 
 
-Version 002 计划
+Version 003 计划
 1. 增加读取SGF的功能，目前只要求读取死活题的SGF，不要求读取带有顺序的棋谱或者带有变化答案的死活题。
+
+
+Version 002 Date 2022/5/26
+1. 今天学习了ttkbootstrap，将所有代码改成更好看的ttkbootstrap
 
 Version 001 Date: 2022/5/25
 今日实现功能：
